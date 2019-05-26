@@ -1,0 +1,9 @@
+4
+6 4 d 1 z 1
+r d z e d z
+7 3 e 2 j 1
+e j e r e e j
+5 2 r 1 z 0
+d z j r e
+7 4 z 2 r 1
+z r d z z r e
